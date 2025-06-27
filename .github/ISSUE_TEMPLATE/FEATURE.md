@@ -1,6 +1,6 @@
 ---
 name: Feature ✔️
-about: 기능 추가 이슈 템플릿
+about: Feature Issue Template
 title: "[FEAT]"
 labels: feature
 assignees: ''
