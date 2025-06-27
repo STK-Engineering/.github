@@ -1,6 +1,6 @@
 ---
 name: "Bug \U0001F41E"
-about: 버그 리포트 이슈 템플릿
+about: Bug Report Issue Template
 title: "[BUG]"
 labels: bug
 assignees: ''
